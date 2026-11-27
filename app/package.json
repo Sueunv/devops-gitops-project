@@ -1,0 +1,9 @@
+{
+  "name": "devops-gitops-app",
+  "version": "1.0.0",
+  "description": "Hands-on DevOps GitOps learning project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
